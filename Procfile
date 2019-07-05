@@ -1,0 +1,1 @@
+web: python price_updater.py
